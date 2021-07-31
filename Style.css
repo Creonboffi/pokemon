@@ -8,7 +8,7 @@
  .Image {
     height: 160vh; 
     background-position: center;
-    background-image: url("PokemonBackGround.jpg");
+    background-image: url("Assets/PokemonBackGround.jpg");
     background-size: cover;
     background-attachment: fixed;
     /* opacity: ; */

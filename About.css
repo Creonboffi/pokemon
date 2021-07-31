@@ -13,7 +13,7 @@ body{
     background-color: #f1f1f1;
 }
 .aboutsection{
-    background: url(AboutBackGround.jpg) no-repeat left;
+    background: url(Assets/AboutBackGround.jpg) no-repeat left;
     background-size: 55%;
     margin-top: 1%;
     background-color: #fdfdfd;
@@ -21,11 +21,11 @@ body{
     padding: 100px 0;
 }
 .innercontainer{
-    width: 55%;
+    width: 60%;
     float: right;
     background-color: #fdfdfd;
     padding: 150px;
-}
+}   
 .innercontainer h1{
     margin-bottom: 30px;
     font-size: 30px;
